@@ -3,7 +3,7 @@ vishalm029/vishalm029 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Vishal Mishra 👋
 
 I'm a passionate web developer, UI designer, and data analyst with a keen interest in creating user-friendly and data-driven digital experiences. I enjoy turning complex problems into simple, intuitive, and elegant solutions.
 
