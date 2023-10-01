@@ -30,8 +30,10 @@ I'm a passionate web developer, UI designer, and data analyst with a keen intere
 -->
 
 ## Let's Connect 🌐
-- 📧 You can reach me at [your@email.com](mailto:mishravishal150@gmail.com).
+- 📧 You can reach me at [Mail](mailto:mishravishal150@gmail.com).
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-mishra-515693208/).
-- 🌐 Visit my portfolio at [yourwebsite.com](https://www.yourwebsite.com/).
+- <!---
+  🌐 Visit my portfolio at [yourwebsite.com](https://www.yourwebsite.com/).
+- -->
 
 Thanks for visiting my GitHub profile! I'm excited to collaborate and create amazing digital experiences. 😊
