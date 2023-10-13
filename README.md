@@ -35,5 +35,6 @@ I'm a passionate web developer, UI designer, and data analyst with a keen intere
   <!---
   🌐 Visit my portfolio at [yourwebsite.com](https://www.yourwebsite.com/).
    -->
+  [![An image of @vishalm029's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalm029)](https://holopin.io/@vishalm029)
 
 Thanks for visiting my GitHub profile! I'm excited to collaborate and create amazing digital experiences. 😊
